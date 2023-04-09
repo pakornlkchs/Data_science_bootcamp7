@@ -1,5 +1,6 @@
 # Data Science Bootcamp 07
-# by [DataRockie](https://www.facebook.com/datarockie/)
+### by [DataRockie](https://www.facebook.com/datarockie/)
+---
 All of my data projects in the Bootcamp, There are 10 sprints as follow
 - Google sheets\
   [What I have learned in Google sheets](https://www.notion.so/pakornlkchs/Sprint-01-Google-sheets-a93a5cdc7470423594f99b179b9ec818?pvs=4)
