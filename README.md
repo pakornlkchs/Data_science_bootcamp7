@@ -15,8 +15,8 @@ I've attended in Data Science Bootcamp by DataRockie since Nov'22. All of my dat
 - Essential Statistics
   [What I have learned about statistics](https://pakornlkchs.notion.site/Sprint-06-Essential-Statistics-af01bc54fd5d47a3a5cef96440d9413f)
 - Essential ML
-  [What I have learned abount machine learning 1](https://pakornlkchs.notion.site/Sprint-07-Essential-ML-913601e7eed84bf7951c32a732089896) / 
-  [What I have learned abount machine learning 2](https://pakornlkchs.notion.site/Sprint-07-1-Essential-ML-Part-2-a46a83046e24406fa33b78ccd475d8e3)
+  [What I have learned about machine learning 1](https://pakornlkchs.notion.site/Sprint-07-Essential-ML-913601e7eed84bf7951c32a732089896) / 
+  [What I have learned about machine learning 2](https://pakornlkchs.notion.site/Sprint-07-1-Essential-ML-Part-2-a46a83046e24406fa33b78ccd475d8e3)
 - Python
 - Python for data analyst
 - Dashboard
