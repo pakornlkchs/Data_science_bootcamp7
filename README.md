@@ -1,7 +1,7 @@
 # Data Science Bootcamp 07
 ### by [DataRockie](https://www.facebook.com/datarockie/)
 ---
-I've attended in Data Science Bootcamp by DataRockie since Nov'22. All of my data projects in the bootcamp are kept here. There are 10 sprints as follow
+I've attended in Data Science Bootcamp by DataRockie since Nov'22. All of my data projects in the bootcamp are kept here. There are 10 sprints as followed
 - Google sheets
   [What I have learned in Google sheets](https://www.notion.so/pakornlkchs/Sprint-01-Google-sheets-a93a5cdc7470423594f99b179b9ec818?pvs=4)
 - SQL
@@ -21,4 +21,5 @@ I've attended in Data Science Bootcamp by DataRockie since Nov'22. All of my dat
 - Python for data analyst
 - Dashboard
 
-Verified badge: coming soon
+**Verified badge:** 
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/Zn4IOE_iTJ2bG0aOLfvIJg?identity__email=pakorn.lkchs%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Zn4IOE_iTJ2bG0aOLfvIJg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Certified Professional Data Analyst</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Jun 13, 2023</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Pakorn Lertkhachonsuk</span></p></blockquote>
